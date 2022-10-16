@@ -1,0 +1,14 @@
+{
+  "name": "09-03-puppeteer-iframe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+<<<<<<< HEAD
+    "mongoose": "^6.4.5",
+=======
+>>>>>>> parent of 8671e25 (11일차)
+    "puppeteer": "^15.4.0"
+  }
+}
